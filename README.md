@@ -2,7 +2,7 @@
 Book-Recommendation-system
 <br>
 <p align='center'>
-<img src="https://github.com/Jauharmuhammed/README-Template/blob/main/assets/Mockup-website.png" width='70%' >
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*7mJSE3L9zXD94qooU7GoQQ.png" width='70%' >
 </p>
 <br>
 
