@@ -115,9 +115,9 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 ```
-Create a user with manage.py
+Data link:
 ```
-python manage.py createsuperuser
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 ```
 
 To build a book recommendation system, you need a large dataset of books, their authors, genres, descriptions, ratings, and any other relevant information. You also need to preprocess the data to clean it and convert categorical variables to numerical ones. Then you choose an appropriate algorithm, such as content-based filtering or collaborative filtering, and train your model on the preprocessed dataset.
