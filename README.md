@@ -10,12 +10,8 @@ A book recommendation system is a type of recommender system that suggests books
 
 
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- In sit amet cursus ex.
-- Maecenas id lacus ut diam placerat lobortis ac quis nisl.
--  Nam tristique vulputate ante at malesuada.
-- imperdiet elit posuere ut.
 
+- EDA
 <br>
 
 ### Built With
